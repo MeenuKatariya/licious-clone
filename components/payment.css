@@ -59,3 +59,14 @@
             border: none;
             border-radius: 5px;
         }
+        #cardNumber
+        {
+            width: 60%;
+            margin-bottom: 40px;
+        }
+        form>img{
+            width: 120px;
+            /* padding-top: 12px; */
+            margin-top: -15%;
+            margin-left: 350px;
+        }

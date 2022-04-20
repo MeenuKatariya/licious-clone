@@ -15,6 +15,9 @@
             document.querySelector("#proceed").style.backgroundColor="#e41d36";
         alert("Your OTP is 1234");
          }
+         else{
+             alert('Please enter a valid number')
+         }
         }
        
 
